@@ -1,0 +1,40 @@
+/* About section specific styles */
+
+/* About header styles */
+.about-header {
+  font-size: 2.5em;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+/* About content styles */
+.about-content {
+  font-size: 1.2em;
+  color: #6c757d;
+  line-height: 1.6;
+  margin-bottom: 30px;
+}
+
+/* About image styles */
+.about-image {
+  max-width: 100%;
+  height: auto;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+/* About team member styles */
+.team-member {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.team-member h3 {
+  font-size: 1.5em;
+  margin-bottom: 10px;
+}
+
+.team-member p {
+  font-size: 1em;
+  color: #6c757d;
+}

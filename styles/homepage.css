@@ -1,0 +1,71 @@
+/* Homepage specific styles */
+
+/* Hero section styles */
+.hero {
+  background-color: #f8f9fa;
+  padding: 50px 0;
+  text-align: center;
+}
+
+.hero h1 {
+  font-size: 3em;
+  margin-bottom: 20px;
+}
+
+.hero p {
+  font-size: 1.2em;
+  color: #6c757d;
+}
+
+/* Features section styles */
+.features {
+  background-color: #ffffff;
+  padding: 50px 0;
+}
+
+.features .feature {
+  text-align: center;
+  padding: 20px;
+}
+
+.features .feature h2 {
+  font-size: 2em;
+  margin-bottom: 10px;
+}
+
+.features .feature p {
+  font-size: 1em;
+  color: #6c757d;
+}
+
+/* Call to action section styles */
+.cta {
+  background-color: #007bff;
+  color: white;
+  padding: 50px 0;
+  text-align: center;
+}
+
+.cta h2 {
+  font-size: 2.5em;
+  margin-bottom: 20px;
+}
+
+.cta p {
+  font-size: 1.2em;
+  margin-bottom: 30px;
+}
+
+.cta .button {
+  background-color: white;
+  color: #007bff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.cta .button:hover {
+  background-color: #0056b3;
+  color: white;
+}
